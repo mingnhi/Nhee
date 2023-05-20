@@ -1,0 +1,9 @@
+.main{
+    width:  800px;
+    height: 300px;
+    
+}
+.header{
+    width: 100%;
+    box-sizing: border-box;
+}
